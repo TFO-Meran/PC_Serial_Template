@@ -4,3 +4,5 @@
 establish a serial communtication with an external device and how to open a file for storing data.
 
 Test-Änderung für Pull-Request..
+
+test für Authentifizierung..

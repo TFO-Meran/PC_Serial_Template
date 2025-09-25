@@ -5,4 +5,7 @@ establish a serial communtication with an external device and how to open a file
 
 Test-Änderung für Pull-Request..
 
-test für Authentifizierung..
+test für Authentifizierung ..
+
+noch ein test für Auth..
+
